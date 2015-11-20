@@ -1,0 +1,48 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size:12px;
+}
+
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: none;	
+	color:#553388;
+}
+
+#searchbar > div{
+	padding-right:0;
+	margin-top:20px;
+}
+
+header{
+	background:#ff005a;
+	border-bottom:1px solid #ccc;
+	padding-top:15px;
+}
+#logo{
+	font-family: 'Pacifico', cursive;
+}
+
+#logo a{
+	color:#fff;
+}
+
+#logo a:hover{
+	text-decoration: none;
+	color:#fff;
+}
+
+#content img{
+	width:100%;
+}
+
+#content{
+	overflow:hidden;
+}
+
+#content .row {
+	margin-bottom: 20px;
+}
