@@ -96,6 +96,17 @@ main .row{
 	bottom:20px;
 }
 
+/* styles for zeta survey */
+#survey .padme{
+	margin-top:15px;
+	margin-bottom:15px;
+}
+
+.container{
+	padding-bottom:15px;
+}
+
+
 @media screen and (max-width:720px){
 	#logo{
 		float:left;
@@ -105,6 +116,9 @@ main .row{
 	}
 	#hot-promo{
 		min-height:150px;
+	}
+	#survey #logo{
+		float:none;
 	}
 }
 
